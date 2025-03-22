@@ -1,4 +1,6 @@
-﻿using Projeto2B.Models;
+﻿//Os métodos do SQL ficam no repositorio
+
+using Projeto2B.Models;
 
 namespace Projeto2B.Repositorio
 {
